@@ -67,8 +67,8 @@ main {
       cursor: pointer;
       transition: all 0.2s ease;
       &:hover {
-        color: cyan;
-        text-shadow: 0 0 4px cyan;
+        color: green;
+        text-shadow: 0 0 4px green;
       }
       &.fa-play {
         .centered;
@@ -145,8 +145,8 @@ footer {
           height: 0.2rem;
           border-radius: 10px;
           width:10%;
-          background: cyan;
-          box-shadow: 0 0 2px 2px cyan;
+          background: green;
+          box-shadow: 0 0 2px 2px green;
         }
       }
     }
